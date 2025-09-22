@@ -55,4 +55,4 @@ The notebook includes:
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/time-series-tetouan.git
+   git clone https://github.com/jd4vid/times-series-forecasting.git
